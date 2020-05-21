@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/57143488/82607227-d76b0d80-9b8e-11ea-8131-f7c8822b18ee.PNG">
+
 
 # Panorama do Covid-19 no Brasil
 Notebook com análises sobre o efeito da doença no brasil.
