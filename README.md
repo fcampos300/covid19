@@ -1,5 +1,7 @@
 <a href="https://www.linkedin.com/in/fabiocamposgp/" target="blank"><img src="https://img.shields.io/badge/Author-Fabio%20Campos-green" /></a> <img src="https://img.shields.io/badge/python-3.7%2B-blue" /> <img src="https://img.shields.io/badge/jupyter-notebook-orange" />
 
+<p><img src="https://github.com/fcampos300/covid19/blob/master/covid19.jpg?raw=true" alt="covid19.jpg"></p>
+
 # Panorama do Covid-19 no Brasil
 Notebook com análises sobre o efeito da doença no brasil.
 
