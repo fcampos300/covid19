@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Author-Fabio%20Campos-green?link=https://www.linkedin.com/in/fabiocamposgp/" />
 <img src="https://img.shields.io/badge/python-3.7%2B-blue" /> <img src="https://img.shields.io/badge/jupyter-notebook-orange" />
 
 # Panorama do Covid-19 no Brasil
