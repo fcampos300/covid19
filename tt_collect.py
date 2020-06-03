@@ -115,7 +115,7 @@ key_sao_paulo = ['São Paulo', 'Sao Paulo']
 # Cria uma lista de palavras chaves para buscar nos tweets.
 keywords = key_covid + key_rio + key_sao_paulo
 
-# Chaves de autenticação para o Twitter.
+# Chaves de autenticação para o Twitter. É necessário o cadastro na API do Twitter.
 consumer_key = "SUA CONSUMER KEY DO TWITTER"
 consumer_secret = "SUA CONSUMER SECRET DO TWITTER"
 access_token = "SEU ACCESS TOKEN DO TWITTER"
