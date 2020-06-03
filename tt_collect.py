@@ -125,8 +125,9 @@ access_token_secret = "SEU ACCESS TOKEN SECRET DO TWITTER"
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 
+# Cria o streamer.
 my_listener = MyListener()
 my_stream = Stream(auth, listener=my_listener, tweet_mode='extended')
 
-# Coleta os Tweets
+# Coleta os Tweets.
 my_stream.filter(track=keywords, languages=["pt"])
