@@ -12,4 +12,4 @@ montagem dos gráficos.
 <b>Obs:</b> Pode ser que, por limitação do github, os gráficos não sejam renderizados. Caso isso aconteça, clique na opção "Limited rendering only, external view available with nbviewer" indicada no ícone de um círculo com uma linha no meio, logo abaixo da lixeira. Essa opção vai abrir o notebook direto no jupyter nbviewer, e irá renderizar todos os gráficos da análise.
 <br><br>
 <a href="https://github.com/fcampos300/covid19/blob/master/panorama-do-covid19-no-brasil.ipynb">Panorama sobre o Covid-19 no Brasil e no Mundo</a><br>
-<a href="https://github.com/fcampos300/covid19/blob/master/covid_wordcloud.ipynb">WordCloud sobre o Covid-19 em 02/06/2020</a>
+<a href="https://github.com/fcampos300/covid19/blob/master/covid_wordcloud.ipynb">WordCloud sobre o Covid-19 em 08/06/2020</a>
